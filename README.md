@@ -27,7 +27,7 @@ I'm a passionate Web Designer with 1 year of practical experience. I love turnin
 - Designed and developed a personal portfolio + 2 business landing pages.
 - **Tech:** HTML, CSS, WordPress
 - **Features:** Fully responsive, fast-loading, mobile-friendly design, custom theme.
-- 🔗 **Live Link:** [Add your link here]
+- 🔗 **Live Link:(https://atikanur02223-cyber.github.io/My-Portfolio-Website/)
 
 #### 2. WordPress Blog & E-commerce Customization [Major Project]
 - Created a blog site and practiced WooCommerce shop setup.
@@ -38,8 +38,8 @@ I'm a passionate Web Designer with 1 year of practical experience. I love turnin
 ### 📫 Contact Me
 If you have a project or a job opportunity, feel free to reach out!
 
-- **Portfolio:** [Your Portfolio Link Here]
-- **LinkedIn:** [Your LinkedIn Link Here]
+- **Portfolio: (https://atikanur02223-cyber.github.io/My-Portfolio-Website/)
+- **LinkedIn:** 
 - **Email:** atikanur02223@gmail.com
 
 ---
